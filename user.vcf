@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Herbert;Bogaerts;;;
+FN: Bogaerts  Herbert 
+ORG:Comfort Dienstencheques;
+TITLE:Medewerker
+EMAIL;type=INTERNET;type=WORK;type=pref:herbert@comfortdienstencheques.be
+TEL;type=WORK;type=VOICE:+32 0497 531 623
+item1.ADR;type=WORK;type=pref:;;Marcel Habetslaan 26 B12\n3600 Genk\
+item1.X-ABADR:sg
+item2.URL;type=pref:comfortdienstencheques.be
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
